@@ -61,6 +61,7 @@ systemctl is-enabled Fossil #To check if Fossil service is enabled on boot
 ## Donations
 Any donation is highly appreciated
 
+**FOS**: F8A3WSWpmTXB32NpXbWZtkAufZZz8Sbz3F  
 **BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh
 **ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E
 **LTC**: LNZpK4rCd1JVSB3rGKTAnTkudV9So9zexB
